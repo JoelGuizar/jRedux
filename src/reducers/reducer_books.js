@@ -1,3 +1,5 @@
+//step 1 make the reducer, step 2 wire it into the application
+
 export default function () {
   return [
     {title: 'JS: The Good Parts', pages: 101},
@@ -6,5 +8,3 @@ export default function () {
     {title: 'Eloquent Ruby', pages: 1}
   ]
 }
-
-//step 1 make the reducer, step 2 wire it into the application
